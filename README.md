@@ -1,0 +1,2 @@
+# StudentManager
+Core python  project
